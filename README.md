@@ -24,7 +24,10 @@
 
 
 ### **Project schema**
+
+```
 .
 ├── code
 ├── data
 └── README.md
+```
