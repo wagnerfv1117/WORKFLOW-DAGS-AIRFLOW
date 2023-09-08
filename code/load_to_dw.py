@@ -25,7 +25,7 @@ dag = DAG(
 #4-Definir una tarea que cargue el archivo CSV y lo escriba en en la base de datos PostgreSQL llamada wagner que es el DW
 def cargar_csv_links_a_postgresql():
     # Ruta al archivo CSV que se va a cargar
-    csv_file_path = '/home/wagner/Documents/PROYECTOS DATASCIENCE/PROYECTOS PYTHON/WORKFLOW-DAG-AIRFLOW/data/links.csv'
+    csv_file_path = '/home/wagner/Documents/PROYECTOS DATASCIENCE/PROYECTOS PYTHON/WORKFLOW-DAG-AIRFLOW/data/links.csv' # ejemplo ruta en el nodo, es cuestión de cambiar
 
     # Verificar si el archivo CSV existe en la ruta del host donde se aloja el archivo
     if os.path.exists(csv_file_path):
