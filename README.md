@@ -1,3 +1,14 @@
+# DAGS IN APACHE AIRFLOW
+-----------------------------------------------------
+
+
+![Captura de pantalla 2024-10-08 195233](https://github.com/user-attachments/assets/03704a4c-2597-4b44-af26-d7ecc42f9ea2)
+
+
+
+-----------------------------------------------------
+
+
 ## **About project**
 
 - DAG # 1: News Scraper with Python, BeautifulSoup and Request library, saving text plane file and export to .csv file.
